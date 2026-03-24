@@ -12,8 +12,8 @@
 
 ## 🚀 仓库矩阵
 
-- **[📄 resume-templates](https://github.com/WonderCV-com/resume-templates)** — 62+ 款 ATS 友好中文简历模板，含预览图与使用指南
-- **[📚 resume-guide](https://github.com/WonderCV-com/resume-guide)** — 简历写法 · ATS 优化 · 按岗位/场景/面试完整指南（19 篇）
+- **[📄 resume-templates](https://github.com/WonderCV-com/resume-templates)** — 102+ 款 ATS 友好中文简历模板，含预览图与使用指南
+- **[📚 resume-guide](https://github.com/WonderCV-com/resume-guide)** — 简历写法 · ATS 优化 · 按岗位/场景/面试完整指南（23 篇）
 - **[🛠️ resume-skills-and-tools](https://github.com/WonderCV-com/resume-skills-and-tools)** — AI 求职提示词库 · 求职工作流 · ATS/面试工具合集
 
 ---
